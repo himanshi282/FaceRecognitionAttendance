@@ -13,7 +13,7 @@ An AI-powered Face Recognition Attendance System built using **Python**, **OpenC
 - 📅 Attendance stored with date
 - 🖥️ Simple Tkinter GUI
 - 💾 Local database support
-
+-  CAMERA CLOSE CLICK ESC/Q BUTTON
 ---
 
 ## 🛠️ Technologies Used
