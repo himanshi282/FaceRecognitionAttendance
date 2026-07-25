@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+trainer.yml
+labels.json
+
+attendance/*.csv
+
+.env
+.vscode/
+
+*.log
